@@ -1,0 +1,2 @@
+# IPBlock-Fraud-CareAccess
+blacklist
